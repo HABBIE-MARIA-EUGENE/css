@@ -21,4 +21,4 @@ Internal css
 
 </style>
 <h1>heading</h1>
-<p>paragaph</p>
+<p>paragaph</p> 
