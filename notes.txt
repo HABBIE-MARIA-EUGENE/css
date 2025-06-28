@@ -1,0 +1,24 @@
+Inline css 
+style
+Here We will include the required parameters style inside the html tag itself
+
+    <h1 style="color:black;background-color: red;">APPLE</h1>
+    <h1 style="color: black;background-color: orange;">ORANGE</h1>
+    <h1 style="color: black;background-color: yellow;">MANGO</h1>
+
+
+
+
+Internal css
+
+<style>
+    h1{
+        color: red;
+    }
+    p{
+        color: blue;
+    }
+
+</style>
+<h1>heading</h1>
+<p>paragaph</p>
