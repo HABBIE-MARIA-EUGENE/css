@@ -22,3 +22,7 @@ Internal css
 </style>
 <h1>heading</h1>
 <p>paragaph</p> 
+<div> <div> div tag helps to keep different tags as a division or group 
+
+external css
+<link rel="stylesheet" href="style.css">
